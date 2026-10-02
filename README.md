@@ -7,7 +7,8 @@ when you aren't looking at it.**
 
 **[Website](https://salahu01.github.io/livewall/)** — an interactive tour of the
 design, with a live demo of the coverage gate ·
-**[Releases](https://github.com/salahu01/LiveWall/releases)**
+**[Releases](https://github.com/salahu01/LiveWall/releases)** ·
+**[Project board](https://github.com/users/salahu01/projects/3)**
 
 Existing video wallpaper apps mostly wrap a media player around whatever file you
 drop in and leave it decoding whether or not the desktop is visible. That is why
