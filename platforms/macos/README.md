@@ -188,6 +188,15 @@ an installed application, so `register()` has nothing to bind to. The toggle
 looks like it worked, nothing is recorded, and you find out after a restart. The
 menu warns when the app is running from somewhere this applies.
 
+## Installer (DMG)
+
+```bash
+./tools/bundle.sh
+./tools/make-dmg.sh              # build/LiveWall-<version>.dmg, drag-to-Applications window
+```
+
+Set `SIGN_IDENTITY` (and `NOTARY_PROFILE`) to sign and notarise the DMG too.
+
 ## Build without installing
 
 ```sh
