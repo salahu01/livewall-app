@@ -17,7 +17,7 @@
 
 [Unit]
 Description=LiveWall live wallpaper
-Documentation=https://github.com/salahu01/LiveWall
+Documentation=https://github.com/salahu01/livewall-app
 # graphical-session.target is what tells systemd the compositor is up and
 # DISPLAY/WAYLAND_DISPLAY are in the user environment. Without it the daemon
 # starts before there is a display server to connect to.
